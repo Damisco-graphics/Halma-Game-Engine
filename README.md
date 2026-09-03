@@ -1,6 +1,3 @@
-# Halma-Game-Engine
-Interactive Two-player Halma game engine with a Tkinter GUI, legal move generation, multi-jump mechanics, rule enforcement, scoring, and turn management.
-
 # Halma Game Engine
 
 A two-player graphical **Halma game engine** built in Python with Tkinter. The system manages the complete gameplay loop for human players, including board initialization, legal move generation, multi-jump mechanics, rule enforcement, turn management, scoring, move timing, and win detection.
