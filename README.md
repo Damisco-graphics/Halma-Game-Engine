@@ -214,4 +214,4 @@ Potential extensions include:
 
 ### Technologies
 
-**Python · Tkinter · Object-Oriented Programming · Game Development · GUI Programming · Algorithmic Move Generation · State Management.**
+**Python · Tkinter · Object-Oriented Programming · Game Development · GUI Programming · Algorithmic Move Generation · State Management**
